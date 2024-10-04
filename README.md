@@ -12,7 +12,7 @@ JavaScript (Vanilla JS)
 Canvas (or other libraries for rendering the game, if used)
 
 Demo Link:
-2048 Game – Demo
+[2048 Game – Demo](https://arsenskandalenko.github.io/js_2048_game/)
 
 Instructions for Launch:
 Clone the repository:
@@ -27,3 +27,4 @@ bash
 cd 2048-game
 Open the index.html file in your browser.
 
+github https://github.com/mate-academy/js_2048_game/pull/690
